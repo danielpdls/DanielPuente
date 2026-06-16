@@ -1,134 +1,133 @@
-# Hola, soy Daniel Puente de los Santos 👋
+# Hi, I'm Daniel Puente de los Santos 👋
 
-Soy **Data Analyst orientado a negocio y operaciones**, con formación en **Derecho** y **Administración con enfoque en Negocios** y experiencia en coordinación operativa, gestión de procesos, indicadores y control de información.
+I am a **Data Analyst focused on business and operations**, with a background in **Law** and **MBA**, and experience in operational coordination, process management, performance indicators, and information control.
 
-Me especializo en transformar datos desordenados en información clara para apoyar la toma de decisiones, mejorar procesos y comunicar hallazgos de forma sencilla.
+I specialize in transforming messy data into clear, actionable information to support decision-making, improve processes, and communicate insights in a simple and practical way.
 
-Desarrollo proyectos de análisis de datos enfocados en limpieza, exploración, visualización, dashboards interactivos y modelos predictivos aplicados a problemas de negocio.
-
----
-
-## Perfil profesional
-
-- Data Analyst Jr. / BI Analyst Jr.
-- Enfoque en análisis de datos para operaciones, negocio y toma de decisiones.
-- Experiencia en coordinación administrativa, procesos operativos, seguimiento de indicadores, facturación y control documental.
-- Análisis orientado a mejorar eficiencia, identificar patrones y generar reportes útiles.
+I develop data analysis projects focused on data cleaning, exploratory analysis, visualization, interactive dashboards, and predictive models applied to business problems.
 
 ---
 
-## Herramientas y tecnologías
+## Professional profile
 
-**Análisis de datos:**  
+* Junior Data Analyst / Junior BI Analyst.
+* Focused on data analysis for operations, business, and decision-making.
+* Experience in administrative coordination, operational processes, KPI tracking, billing, and document control.
+* Analysis-oriented mindset to improve efficiency, identify patterns, and create useful reports.
+
+---
+
+## Tools and technologies
+
+**Data analysis:**
 Python, Pandas, NumPy, Excel
 
-**Visualización:**  
+**Visualization:**
 Matplotlib, Plotly, Streamlit
 
-**Bases de datos:**  
+**Databases:**
 SQL
 
-**Machine Learning:**  
-Scikit-learn, clasificación, evaluación de modelos, métricas de desempeño
+**Machine Learning:**
+Scikit-learn, classification models, model evaluation, performance metrics
 
-**Entorno de trabajo:**  
+**Work environment:**
 Jupyter Notebook, Git, GitHub, VS Code
 
 ---
 
-## Proyectos destacados
+## Featured projects
 
 ### Lottery Frequency Analysis
 
-Proyecto personal de análisis exploratorio de resultados históricos de loterías como Melate, Powerball y Mega Millions.
+Personal exploratory data analysis project based on historical lottery results from Melate, Powerball, and Mega Millions.
 
-**Objetivo:**  
-Integrar datos históricos de diferentes fuentes, limpiar formatos distintos y generar métricas comparativas de frecuencia para números principales y números especiales.
+**Objective:**
+Integrate historical data from different sources, clean inconsistent formats, and generate comparative frequency metrics for main numbers and special numbers.
 
-**Herramientas:**  
+**Tools:**
 Python, Pandas, NumPy, Matplotlib, Jupyter Notebook.
 
-**Competencias aplicadas:**  
-Limpieza de datos, análisis exploratorio, generación de métricas, organización de proyecto, documentación y trabajo con datos reales de distintas fuentes.
+**Applied skills:**
+Data cleaning, exploratory data analysis, metric generation, project organization, documentation, and working with real-world datasets from different sources.
 
-[Ver repositorio](https://github.com/danielpdls/lottery_frequency_analysis)
+[View repository](https://github.com/danielpdls/lottery_frequency_analysis)
 
 ---
 
-### Dashboard de vehículos usados con Streamlit
+### Used Vehicles Dashboard with Streamlit
 
-Aplicación web interactiva desarrollada con Streamlit para explorar datos de vehículos usados en Estados Unidos.
+Interactive web application built with Streamlit to explore used vehicle data from the United States.
 
-**Objetivo:**
-Crear una herramienta visual que permita analizar variables como precio, kilometraje, año del modelo y condición del vehículo mediante gráficos interactivos.
+**Objective:**
+Create a visual tool to analyze variables such as price, mileage, model year, and vehicle condition through interactive charts.
 
-**Herramientas:**
+**Tools:**
 Python, Pandas, Plotly Express, Streamlit, Git/GitHub.
 
-**Competencias aplicadas:**
-Visualización interactiva, construcción de dashboards, exploración de datos y comunicación clara de información.
+**Applied skills:**
+Interactive visualization, dashboard development, exploratory data analysis, and clear communication of information.
 
-[Ver demo](https://vehicles-dashboard-danielpdls.streamlit.app/)
-
-[Ver repositorio](https://github.com/danielpdls/dashboard-vehiculos-usados-streamlit)
-
+[View live demo](https://vehicles-dashboard-danielpdls.streamlit.app/) | [View repository](https://github.com/danielpdls/dashboard-vehiculos-usados-streamlit)
 
 ---
 
 ### Customer Churn Prediction — Interconnect
 
-Proyecto de machine learning enfocado en predecir la cancelación de clientes de una empresa de telecomunicaciones.
+Machine learning project focused on predicting customer churn for a telecommunications company.
 
-**Objetivo:**  
-Identificar clientes con mayor probabilidad de cancelar el servicio para apoyar acciones preventivas de retención.
+**Objective:**
+Identify customers with a higher probability of canceling their service in order to support preventive retention actions.
 
-**Herramientas:**  
+**Tools:**
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
 
-**Competencias aplicadas:**  
-Preprocesamiento de datos, integración de información de clientes, ingeniería de características, comparación de modelos, evaluación con métricas y selección de modelo final.
+**Applied skills:**
+Data preprocessing, customer data integration, feature engineering, model comparison, metric-based evaluation, and final model selection.
 
-**Resultado principal:**  
-El modelo final con Gradient Boosting alcanzó un AUC-ROC cercano a 0.88 después del ajuste de hiperparámetros.
+**Main result:**
+The final Gradient Boosting model achieved an AUC-ROC close to 0.88 after hyperparameter tuning.
 
-[Ver repositorio](https://github.com/danielpdls/customer-churn-prediction-interconnect)
+[View repository](https://github.com/danielpdls/customer-churn-prediction-interconnect)
 
 ---
 
-## Otros proyectos
+## Other projects
 
 ### Megaline Mobile Plans Analysis
 
-Análisis estadístico para comparar ingresos y comportamiento de usuarios entre dos planes móviles.
+Statistical analysis to compare revenue and user behavior between two mobile plans.
 
-[Ver repositorio](https://github.com/danielpdls/megaline-mobile-plans-analysis)
+[View repository](https://github.com/danielpdls/megaline-mobile-plans-analysis)
 
 ### Video Game Sales Analysis
 
-Análisis exploratorio de ventas de videojuegos para identificar patrones comerciales por plataforma, género y región.
+Exploratory analysis of video game sales to identify commercial patterns by platform, genre, and region.
 
-[Ver repositorio](https://github.com/danielpdls/video-game-sales-analysis)
+[View repository](https://github.com/danielpdls/video-game-sales-analysis)
 
 ### Age Prediction with Computer Vision
 
-Modelo de visión computacional para estimar edad a partir de imágenes faciales.
+Computer vision model to estimate age from facial images.
 
-[Ver repositorio](https://github.com/danielpdls/age-prediction-computer-vision)
-
----
-
-## Enfoque profesional
-
-Mi enfoque combina experiencia operativa con análisis de datos para entender procesos, detectar oportunidades de mejora y convertir información dispersa en reportes accionables.
-
-Me interesa aplicar el análisis de datos en sectores donde las métricas impulsan decisiones rápidas y medibles, como **finanzas, e-commerce y empresas en crecimiento**.
-
-Mis principales áreas de interés son análisis de clientes, comportamiento de usuarios, indicadores de negocio, visualización de datos, dashboards, SQL, automatización de reportes y modelos predictivos aplicados a problemas reales.
+[View repository](https://github.com/danielpdls/age-prediction-computer-vision)
 
 ---
 
-## Contacto
+## Professional focus
 
-- LinkedIn: [linkedin.com/in/danielpdls](https://www.linkedin.com/in/danielpdls)
-- GitHub: [github.com/danielpdls](https://github.com/danielpdls)
-- Email: danielpuente86@gmail.com
+My approach combines operational experience with data analysis to understand processes, detect improvement opportunities, and turn scattered information into actionable reports.
+
+I am especially interested in applying data analysis in sectors where metrics drive fast and measurable decisions, such as **finance, e-commerce, and growing companies**.
+
+My main areas of interest include customer analysis, user behavior, business indicators, data visualization, dashboards, SQL, report automation, and predictive models applied to real business problems.
+
+---
+
+## Contact
+
+* LinkedIn: [linkedin.com/in/danielpdls](https://www.linkedin.com/in/danielpdls)
+  
+* GitHub: [github.com/danielpdls](https://github.com/danielpdls)
+  
+* Email: [danielpuente86@gmail.com](mailto:danielpuente86@gmail.com)
